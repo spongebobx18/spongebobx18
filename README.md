@@ -5,7 +5,6 @@
 
 - 📫 How to reach me **princebenson37@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1YIno_nqWS7mvoUue4RmOas-Txc02XXM3BGA2ebwng2s/edit?usp=sharing](https://docs.google.com/document/d/1YIno_nqWS7mvoUue4RmOas-Txc02XXM3BGA2ebwng2s/edit?usp=sharing)
 
 - ⚡ Fun fact **The entire code for the Apollo 11 guidance computer, which landed the first humans on the moon, had less computing power than a modern smartphone**
 
